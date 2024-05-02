@@ -1,9 +1,9 @@
 def perimetr(a,b):
-    return (a+b)2
+    return (a+b)*2
 def ploshad(a,b):
-    return ab
+    return a*b
 def diagonal(a,b):
-    return round((a2+b2)**0.5, 2)
+    return round((a**2+b**2)**0.5, 2)
 def main():
     a = int(input('введите ширину прямоугольника: '))
     b = int(input('введите длину прямоугольника: '))
